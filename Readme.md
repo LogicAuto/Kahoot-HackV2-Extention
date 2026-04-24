@@ -8,3 +8,7 @@ Click the extention Zip , view raw , and download it.
 Go to chrome://extensions in your browser.
 Enable developer mode and click on "Load unpacked".
 Select the folder where you cloned or unzipped the repository.
+
+Note: This Github , may be updated again , if there is issues with this . however there will no longer be secureity updates
+Check PhantomSecure websi1te ( the company I work for ) 
+
